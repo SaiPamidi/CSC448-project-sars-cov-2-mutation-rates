@@ -1,0 +1,25 @@
+Accession,Release_Date,Species,Length,Geo_Location,Host,Isolation_Source,Collection_Date
+MT509452,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,USA,Homo sapiens,oronasopharynx,2020-03-21
+MT509512,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,India: Dahod,Homo sapiens,,2020-05-01
+MT506563,2020-05-22T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29772,USA: Michigan,Homo sapiens,,2020-03-28
+MT506565,2020-05-22T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29803,USA: Michigan,Homo sapiens,,2020-04-01
+MT506891,2020-05-22T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,USA: Illinois,Homo sapiens,oronasopharynx,2020-04-18
+MT502774,2020-05-21T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29859,Bangladesh,Homo sapiens,,2020-05-13
+MT503017,2020-05-21T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,2530,Thailand,Homo sapiens,,2020-04-10
+MT270106,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29864,Germany: Bavaria,Homo sapiens,,2020-02-01
+MT483556,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,India: Modasa,Homo sapiens,,2020-05-05
+MT477904,2020-05-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,USA: FL,Homo sapiens,,2020-04-29
+MT434806,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29882,USA: NY,Homo sapiens,oronasopharynx,2020-03-10
+MT419854,2020-05-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29861,USA: CA,Homo sapiens,oronasopharynx,2020-03-02
+MT415375,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,3822,China,Homo sapiens,,2020-02-12
+MT326173,2020-04-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29574,USA,Homo sapiens,,2020
+MT291826,2020-04-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29807,China: Wuhan,Homo sapiens,lung,2019-12-30
+MT276329,2020-04-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29882,USA: FL,Homo sapiens,oronasopharynx,2020-02-28
+MT253709,2020-03-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29781,"China: Zhejiang, Hangzhou",Homo sapiens,"lung, oronasopharynx",2020-01-21
+MT184910,2020-03-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29882,USA,Homo sapiens,oronasopharynx,2020-02-18
+MT066156,2020-03-09T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29867,Italy,Homo sapiens,"lung, oronasopharynx",2020-01-30
+MT019529,2020-02-05T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29899,"China: Hubei, Wuhan",Homo sapiens,lung,2019-12-23
+MT019533,2020-02-05T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29883,"China: Hubei, Wuhan",Homo sapiens,lung,2020-01-01
+LR757995,2020-02-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,China:Wuhan,Homo sapiens,,2019-12-26
+LR757997,2020-02-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29388,China:Wuhan,Homo sapiens,,2019-12-31
+MN938384,2020-01-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29838,China: Shenzhen,Homo sapiens,oronasopharynx,2020-01-10
